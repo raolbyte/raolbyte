@@ -18,4 +18,9 @@
 ## <img src="https://raw.githubusercontent.com/raolbyte/byte/refs/heads/main/assets/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Wakatime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
